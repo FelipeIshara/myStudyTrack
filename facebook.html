@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            padding: 0px;
+            margin: 0px;
+        }
+        h1 {
+            color: white;
+        }
+        div#barra{
+            background-color: rgb(63, 92, 154);
+            height: 160px ;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        div#login-senha{
+            margin-right: 350px;
+            font-size: 18pt;
+            display: flex;
+            color: white;
+            text-indent: 3px;
+            
+        }
+        div#login-senha div#email{
+            display: flex;
+            flex-direction: column;
+            
+        }
+        div#login-senha div#senha{
+            display: flex;
+            flex-direction: column;
+            margin: 0px 30px 0px 25px;
+        }
+        input.text{
+            height: 40px;
+            width:250px;
+            margin-top: 5px;
+            border: 1px black solid;
+        }
+        div#login-senha input.btn{
+            font-size: 18pt;
+            margin-top: 30px;
+            height: 50px;
+            width: 100px;
+            background-color: rgb(66, 103, 178); 
+            color: white;
+            border: 1px solid rgb(41, 72, 125);
+            padding: 10px;
+            text-align: center;
+            font-weight: bold;       
+        }
+   
+    </style>
+</head>
+<body>
+    <div id="barra">
+        <h1>Facebook</h1>
+        <div id="login-senha">
+            <div id="email">
+                <p>Email ou telefone</p>
+                <input type="text" class="text">
+            </div>
+            <div id="senha">
+                <p>Senha</p>
+                <input type="text" class="text">
+            </div>
+
+            <input class="btn" type="button" value="Entrar" id="entrar">
+           
+        </div>
+       
+    </div>
+        
+
+    
+</body>
+</html>

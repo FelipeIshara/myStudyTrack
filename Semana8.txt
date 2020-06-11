@@ -1,0 +1,30 @@
+03/06
+
++1h40m(Flask exercicios do video, request, {{variável}}, {{% extends "layout.html" %}} )
++50(METHODS=[ "GET, "POST"], redirect("/"), request.form.get "post", request.args.get "get")
++45(
++45
+
+AMANHA: REVISAR EXERC DE JS E PYTHON
+
+04/06
+
++50(Revisão JS, não referenciar elementos html antes deles existirem, a menos que seja em uma função que sera chamada pelo elemento, 
++50(INSERT INTO tablename (field1, field2) VALUES ('value1', 'value2'), ctrl+d pra sair do sqlite)
++50(DATABASE, PLACEHOLDER nas queryes, redirect aceita só um argumente, render_template() é que pode passar variáveis)
++40(finance começo)
+total:3h
+saldo:10m
+
++90(flex box, aligh-itens, justify-content, main axis, cross-axis, ctrl+a(seleciona tudo), #ex(ganha uma dic com id no vscode) )
+
+novo total: 4h
+novo saldo:40m
+
+05/06
+
++50(vh,vw, :root, var() , main tag)
++45(reproduzindo a pg)
++45(idem)
+saldo do dia anterior: 40m
+total:3h

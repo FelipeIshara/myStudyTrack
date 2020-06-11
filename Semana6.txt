@@ -1,0 +1,74 @@
+saldo do dia anterior: 30m
+21:35 - 22:05  - 30m
+22:25 - 22:55 - 30m
+23:30 - 00:10 - 40M
+00:50 - 1:10 - 20m
+1:25 - - 1:55 - 30m
++30min
+
+20/05
+
+Saldo dia anterior:30m
++10 (mario em python)
++20 (Aula, revisão)
++20 (.itens(), sorted())
++20
+
+20:30 - 23:50 - 20M (Aula)
++20
++20
+
++20 (Vendo pset7)
++20 (Intro Sql,sql sintax, select)
++20(Select, where, count)
+
++20(Where operator, quotes to text, 1and2sql)
++20(ORDER BY, DESC KEYWORD,3sql)
++20(LIKE %: SELECT year, title FROM movies WHERE title LIKE 'harry potter%';)
++20(4SQL, INSERT INTO, NULL VALUES, UPDATE STATEMENT)
+
+TOTAL COM SALDO: 5H.
+
+
+24/05
+
++20(TCP/IP, DNS, HTTP)
++22(ctrl+shift+i - dev tools, aba network, headers)
++30(Htlm video)
++20(form"action""method", name no imput para query)
++20(link rel"styleshet", class(.), color, text-align)
++20(<th>, bootstrap, mais de uma clase por tag, Dif entre JS e C"LET,FUNCTION")
++20(onsubmit na tag form, #para id no query selector, função alert)
+
+
+Total = 2:30 + saldo de ontem: 30m
+Total = 3h.
+
+
+25/05
+
+15:30 começo
++20(fim da aula de JS)
++50(git add,status,commit,push,pull)
+
+18:23
++20(merge,git reset)
++25(w+d, w+m, q depois git log)
++25(tentando entender git.reset, git log -oneline)
++25(git reset --hard restaura para o commit e altera os arquivos)
++25(git branch, pra ver as branchs. git checkout -b para criar, git checkout para trocar)
++25(git merge, git branch -d remove a branch)
+
+3h 35m
+
+26/05
+
++30 (Scratch)
++20(Revisar SQL,revisei as 5 primeiras, quando usar % lembrar de usar o LIKE, WHERE title LIKE 'Harry Potter%'
++25(dentro do query tem que ter aspas, queryselector("#example").innerHtml para auterar um elemento, refazendo exemplos da aula) 
++20(dei o nome pra função igual a de uma variável, e quando chamei ela no onsubmit do form, nao deu certo, 
+mudei o nome da função pra funfar, refiz o exemplo de contar, lembra que pra declara variavel no JS: let/var/const)
++40(Html lido de cima pra baixo, cuidado pra nao referiar elementos html nao existentes ainda, "this", select/option/onchange/this)
++25(window object,setinterval(func, milisec)
++25(inicio da pg)
++25(
