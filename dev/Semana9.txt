@@ -1,0 +1,30 @@
+10/06
+
++1H50M(create table, foreight key, etc..)
+https://www.sqlitetutorial.net/sqlite-date/)
+NOTAS
+QUERY TA RETORNANDO ISSO : [{'cash': 10000}]
+QUERO QUE ELA RETORNE SÓ O NUMERO...
+FIZ uma global armazenando o nome do usuário.
+ 
+
++40( navbar )
++30(facebook)
+
+11/06
++50
+(int(str) para converter em python..
+UPDATE table SET field = value Where field="value";
+)
+
++55
+(
+ALTER TABLE table_name
+ADD column_name data_type column_constraint;
+
+INSERT INTO table_name (column1, column2, column3, ...)
+VALUES (value1, value2, value3, ...);
+video do module datetime.
+
++50
+Pensar melhor em como fazer o portifolio, se a ação ja estiver lá alter, se não insert)

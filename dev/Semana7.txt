@@ -1,0 +1,78 @@
+27/05
+
++25(nav menu, revisão dos videos html, display block, inline)
++25(display inline-block. position absolute, left top)
++40(:hover, transform, link(a), mudar cor e estilo do link)
++40
+Total 2h, saldo 10
+
+
+28/05
+
++20(scratch)
++20(Css, seletores, hierarquia)
++20("CSS back-ground position, attachment, repeat", opacity(RGBA)
+)
+
++20(Fuçando bootstrap)
++20(introduzir a lampada com Js, quando a lampada quebrar ligar o modo escuro)
++20(Terminei a animação da lampada)
+
+Tentar dar merge, colocar modo escuro.
++30(git checkout para ver e trocar de branch, git merge "nome", backgroundColor on JS, mesmo mudando o background no JS, o transition funfa no CSS)
++30(jpeg nao permite transferencia, png sim, varinha pra selecionar, e adicionar canal alfa no gimp)
+
++20(terminei o modo noturno e passei pras outras pages)
++20(push site, video float,clear)
++20(video de float,clear,overflow)
+
++50(anotações e reprodução)
++10m de saldo
+
+TOtal: 5h.
+
+29/05:
+
++30(Soft scroll, site do mano, colocar id em um href)
++25(Revisão sql, Avg(), Inner Join, IN, DISTInCt)
++15(Node.js, process.argv)
++25(typeof(para saber o tipo de uma variável no JS), todos os arg passados são tratados como strings no JS)
+Como contar argumentos....
++25(Para contar os arg é só usar .length, para sair é só colocar return, IsNaN(value) checa se o value é numerico)
+
+
++20(User input on NodeJs, ParseInt(string), )
++20(Como checar se um char é uppe ou lower case, é só comparar o char com ele mesmo com metodo upper ou lower)
++20(cons.log sem '\n' = process.stdout.write(`${char}`), Conversão ASCII para char e vice versa)
++25(PROBLEMA COM ISALPHA NO JS, TERMINEI)
+
+30/05
+
++50(Revisão, ajeitando conteúdo do site)
++25(text-ident)
++25(selecionando a imagem e posicionando ela)
++80(script await, implementei o scroll, primeiro pull request)
+
+31/05
+
++30(tirei o height da interface, assim ele fica auto)
++30
++30
++35
++30
++35
+end:00:20
+
++50(map,usemap,area,coords,shape)
++50(target blank, pg3)
+
++60
++50
+Total:6h
+saldo:40m
+
+
+02/06
+2H(PORRA DE FLASK)
+
+

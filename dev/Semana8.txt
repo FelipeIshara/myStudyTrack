@@ -1,0 +1,84 @@
+03/06
+
++1h40m(Flask exercicios do video, request, {{variável}}, {{% extends "layout.html" %}} )
++50(METHODS=[ "GET, "POST"], redirect("/"), request.form.get "post", request.args.get "get")
++45(
++45
+
+AMANHA: REVISAR EXERC DE JS E PYTHON
+
+04/06
+
++50(Revisão JS, não referenciar elementos html antes deles existirem, a menos que seja em uma função que sera chamada pelo elemento, 
++50(INSERT INTO tablename (field1, field2) VALUES ('value1', 'value2'), ctrl+d pra sair do sqlite)
++50(DATABASE, PLACEHOLDER nas queryes, redirect aceita só um argumente, render_template() é que pode passar variáveis)
++40(finance começo)
+total:3h
+saldo:10m
+
++90(flex box, aligh-itens, justify-content, main axis, cross-axis, ctrl+a(seleciona tudo), #ex(ganha uma dic com id no vscode) )
+
+novo total: 4h
+novo saldo:40m
+
+05/06
+
++50(vh,vw, :root, var() , main tag)
++45(reproduzindo a pg)
++45(idem)
+saldo do dia anterior: 40m
+total:3h
+
+06/06
+
++50(border radius,flex:1, ::after(pseudoelemento))
++50(Position(static,relative,absolute,fixed,stick) flexbox(aligh-itens),  
++50(implementando a pg de registro)
++50(aligh-items, )
++20(username,password)
++35(senha nao tava gerando o mesmo hash, checar esse link no proximo https://stackoverflow.com/questions/23432478/why-is-the-output-of-werkzeugs-generate-password-hash-not-constant)
+
+4h 15m
+
+saldo 15min
+
+07/06
+Finance
++50
++55(.exit sai sqlite no terminal, Como resetar autoincremento de id)
+
+NOTAS:
+Registro ta funcionando, Coloquei uma rota para o home ('/')
+Tem uns print pra tirar, Quando tenta cadastra um usuario novo cai em uma pg com int serv error.
+
+Total com saldo da passada: 2h.
+
+08/06
+
+1h (ELOQUENTE-JS- "\" indica um caractere especial, descobri se um valor existe comparando-o com null, JS converte, use "===") 
+Parei no Curto circuito de && e ||..
++30(indexOf(),lastindexOf(), replace(),slice()) 
+	W3SCHOLS, começar exercícios de arrays...
++10(Trabalhar string como array (split(",")), str.toUpperCase())
++50
++30( \" \\b, \\t, não se pode alterar apenas um char de uma string com arrays)
++25(olleh)
+
+
+
+PRA PROXIMA SESSAO: COMEÇAR UM PROJETO...
+
+09/06
++50(Acho que consertei o bagulho de usuários iguais, lookup function ja esta implementada,
+50+(quote implementado, comecei buy
+NOTA DO PROJETO: implementado quote, interface do buy(get) feito, falta post.
+
+mult dimencional array, bracked notation, arr.push(), .shift() )
+
++50(CSS, flex-grow,shrink,basis, flex-wrap,}
+
+Commitar lampas consertada 
+
++65(branch flex) SOBRE FIRST SITE: BRANCH DE FLEX BOX, PRIMEIRA PG OK, SEGUNDA ALINHADA (CORRIGIR PAGINAÇÃO)
+
+TOTAL com saldo da passada: 4h
