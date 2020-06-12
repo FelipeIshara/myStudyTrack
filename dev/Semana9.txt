@@ -17,7 +17,7 @@ FIZ uma global armazenando o nome do usuário.
 UPDATE table SET field = value Where field="value";
 )
 
-+55
++50
 (
 ALTER TABLE table_name
 ADD column_name data_type column_constraint;
@@ -28,3 +28,6 @@ video do module datetime.
 
 +50
 Pensar melhor em como fazer o portifolio, se a ação ja estiver lá alter, se não insert)
+
++30(escopo em Js)
+Total: 3h..
