@@ -31,3 +31,29 @@ Pensar melhor em como fazer o portifolio, se a ação ja estiver lá alter, se n
 
 +30(escopo em Js)
 Total: 3h..
+
+
+13/06
++25(Portifolio tem dados que são atualizados o tempo todo, será que é bom preenche-lo na hora do buy?)
+
+SOMAR AS AÇOES RELACIONADA A DISTINCT SYMBOLS?
+
++25
+
+
++25( 19 35 - 20 )
+Toda vez que o index carregar, sera criado o portifolio
+Como passar pro html?
+Talvez seja bom fazer um array de stocks, onde os stocks dicionarios
+
++25(20:07 - )
+-Fazer um dicionario com onde as keys do dicionario sejam os simbolos das stocks
+
++15
+Até agora : 1h55m
++40m
+2h:35m
++15
+
+2:50
+
