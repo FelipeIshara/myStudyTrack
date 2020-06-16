@@ -2,9 +2,7 @@
 
 +1H50M(create table, foreight key, etc..)
 https://www.sqlitetutorial.net/sqlite-date/)
-NOTAS
-QUERY TA RETORNANDO ISSO : [{'cash': 10000}]
-QUERO QUE ELA RETORNE SÓ O NUMERO...
+Querys com db.execute retornam dicionarios on as keys são os fields.
 FIZ uma global armazenando o nome do usuário.
  
 
@@ -58,5 +56,17 @@ arr.push(item) coloca o item no fim do array
 arr.shift() retira primeiro item e retorna ele. .pop() faz o mesmo com o ultimo.
 boolean nunca é com "".
 
-JOGO DE CURIOSIDADES RAPBR
+15/06
++25 (ajustando o site)
++50 (mandei o FirstPage)
++50(ajustes em finance)
++55(mandei finance, terminando scratch)
+total:3h
+
+16/06
++55(terminei scratch, jogo flexbox)
++55(jogo flexbox, css responsividade)
++30
+total da madrugada: 2h:30m
++50(media querys, pseudoelements,apliquei no site)
 
