@@ -69,4 +69,18 @@ total:3h
 +30
 total da madrugada: 2h:30m
 +50(media querys, pseudoelements,apliquei no site)
++40(Dica emmet: .field*2 vai criar duas div com classe field, label+input: cria as duas tag)
+
+total: 4h
+
+17/06
+
++55(
+-Revisão aula1 Omnistack
+- npm, nodesj, express.
+- npm install -g (instala globalmente)
+)
+
++60(modulos em nodejs, require,tentando entender callback, arrowfunction)
+
 
