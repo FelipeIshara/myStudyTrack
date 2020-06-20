@@ -14,18 +14,8 @@ saldo:25
 
 - Promoção do ecoturismo levaria a sua morte?
 
-18/06
+18 +30
+19/06 +40
 
-+60(callback)
-+50
-callback, 
-setTimeOut, 
-for(let i in tasks){
-        saida += `<li>${tasks[i]}</li>`
-    }
-    document.querySelector('ul').innerHTML = saida;
-+50(Mais callback)
+20/06 0803
 
-1921
-+50(
--

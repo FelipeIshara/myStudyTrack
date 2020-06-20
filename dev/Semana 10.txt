@@ -1,0 +1,53 @@
+17/06
+
++55(
+-Revisão aula1 Omnistack
+- npm, nodesj, express.
+- npm install -g (instala globalmente)
+)
+
++60(modulos em nodejs, require,tentando entender callback, arrowfunction)
+
+
+
+18/06
+
++60(callback)
++50
+callback, 
+setTimeOut, 
+for(let i in tasks){
+        saida += `<li>${tasks[i]}</li>`
+    }
+    document.querySelector('ul').innerHTML = saida;
++50(Mais callback)
+
+1921
++60(
+-ctrl+space (mostra as opções no vscode)
+-progress bar no Js usando SetInterval, clearInterval
+
+total:3h40m
+
+19/06
+
++55
+-introdução express
+-app.get()
+-app.listen(portnumber)
+-res.send()
+
+1020
++25
+-res.sendFile
+__dirname (pega o diretorio raiz da aplicação)
+
+1240
++50
+-instalando mysql
+- swithc (cal) {
+	case1:
+		statment
+		break.
+-
+

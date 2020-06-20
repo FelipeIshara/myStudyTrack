@@ -73,14 +73,3 @@ total da madrugada: 2h:30m
 
 total: 4h
 
-17/06
-
-+55(
--Revisão aula1 Omnistack
-- npm, nodesj, express.
-- npm install -g (instala globalmente)
-)
-
-+60(modulos em nodejs, require,tentando entender callback, arrowfunction)
-
-
