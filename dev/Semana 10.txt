@@ -42,7 +42,6 @@ total:3h40m
 -res.sendFile
 __dirname (pega o diretorio raiz da aplicação)
 
-1240
 +50
 -instalando mysql
 - swithc (cal) {
@@ -51,3 +50,28 @@ __dirname (pega o diretorio raiz da aplicação)
 		break.
 -
 
+20/06
++50(
+-Pequena Revisão Sql(IN, JOIN)
+-acesso ao my sql por outro commandprompt: 
+mysql -h localhost -u root -p
+- Show Database;
+- Create Database "dbname";
+- CREATE TABLE (field1 datatype, field2 datatype);
+- - DESCRIBE "tablename";
+- DELETE time FROM mundialwinners WHERE time="Palmeiras";
+
++50
+(configurar handlebars
+configurar a conexão com mysql pelo sequelize
+
++50(
+-configurei os negocio,
+- app.post, bodyparser
+
+1340
++40(
+-req.body.namevalue
+-OBJETOS PODEM SER DICIONARIOS NO JS
+-E O INDEXVALUE É OQ CHAMAMOS DE PROPRIEDADE
+)
