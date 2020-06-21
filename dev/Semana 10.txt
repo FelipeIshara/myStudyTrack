@@ -75,3 +75,35 @@ configurar a conexão com mysql pelo sequelize
 -OBJETOS PODEM SER DICIONARIOS NO JS
 -E O INDEXVALUE É OQ CHAMAMOS DE PROPRIEDADE
 )
+
+21/06
++50
+-aulas
+- module.exports
+
++50
+-sequelize.define("nome da tabela", {objeto c/ fields de propriedades}
+Passos aula24
+1) importar post no index 
+2)Na rota app.post, usar um metodo no model post (.create()), que recebe como parametro um obj onde é possivel atribuir valores aos fields no model/tabela.
+Nos valores colocar o resultado do formHtml.
+3)chamar outro metodo para função create (then(callback)), e depois catch(callback).
+Definir os dois callbacks..
+No catch devolver uma mensagem de erro com res.send,
+No the usar o redirect para rota principal(res.redirect('rota'))
+4)criar o index e a rota dele e o render.
+
+Parei no passo 3
+1400
++40(
+-then, catch
+- inicio do video de promisses
+)
+
+1450
++40(
+-Promisse.all() existe,
+-mas na aula é ele quer dizer model.findAll()
+
+
+
