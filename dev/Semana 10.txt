@@ -116,10 +116,13 @@ Parei no passo 3
 -parseint(),
 -res.render('arqui.handlebars', {variável: "value"} )
 
-+50(
++65(
 -Como passar varíaveis e models com res.render()
 -Como interar sobre o model no handlebars, {{#each modelname}} {{/each}}
 -Como acessar os valores nos models ( {{dataVAlues.field_name}}
+- model.destroy({where:{'field' = value}}).then().catch
+
++15(MUDEI Para o metodo post)
 
  
 
