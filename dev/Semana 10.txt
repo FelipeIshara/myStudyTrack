@@ -105,5 +105,22 @@ Parei no passo 3
 -Promisse.all() existe,
 -mas na aula é ele quer dizer model.findAll()
 
+22/06
++3H(
+-LINUX
+
+23/06
+-+55(rEVISÃO
+-sTRING METHODS, slice(), indexof(),
+-array method, .push(), .shift(), .pop(), .unshift().
+-parseint(),
+-res.render('arqui.handlebars', {variável: "value"} )
+
++50(
+-Como passar varíaveis e models com res.render()
+-Como interar sobre o model no handlebars, {{#each modelname}} {{/each}}
+-Como acessar os valores nos models ( {{dataVAlues.field_name}}
+
+ 
 
 
