@@ -132,18 +132,12 @@ Parei no passo 3
 +55(
 -
 +50
--cria pasta blog,
-- instala dependencias (express,handlebars, bodyparser, mongoose)
-- npm install --save,
-- arquivo app.js
-- importa os modules
-- fazer o app = express()
--configurar a porta (criou constante pra port)
--app.listen(POrt, callback com msg de sucesso)
--criar pasta rotas e views, dentro da views layout,
--dentro de layout (main.handlebars).
-- cria estrutura html, e {{{body}}}
-- config body parser e handlebars
- 
+Aula 31
+-configuração do ambiente
+Aula 32
+GRUPO DE ROTAS
+
+
+
 
 
