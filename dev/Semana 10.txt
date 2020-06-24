@@ -124,6 +124,26 @@ Parei no passo 3
 
 +15(MUDEI Para o metodo post)
 
+2H
+
+24/06
++30(
+-mongodb
++55(
+-
++50
+-cria pasta blog,
+- instala dependencias (express,handlebars, bodyparser, mongoose)
+- npm install --save,
+- arquivo app.js
+- importa os modules
+- fazer o app = express()
+-configurar a porta (criou constante pra port)
+-app.listen(POrt, callback com msg de sucesso)
+-criar pasta rotas e views, dentro da views layout,
+-dentro de layout (main.handlebars).
+- cria estrutura html, e {{{body}}}
+- config body parser e handlebars
  
 
 
