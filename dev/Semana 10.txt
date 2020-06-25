@@ -137,6 +137,13 @@ Aula 31
 Aula 32
 GRUPO DE ROTAS
 
++50(
+-configurei grupo de rotas
+-aula 33
+
+Proxima coisa: implementar aula 33 no projeto
+total 3h
+
 
 
 
