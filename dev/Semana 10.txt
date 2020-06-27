@@ -126,31 +126,9 @@ Parei no passo 3
 
 2H
 
-24/06
-+30(
--mongodb
-+55(
--
-+50
-Aula 31
--configuração do ambiente
-Aula 32
-GRUPO DE ROTAS
 
-+50(
--configurei grupo de rotas
--aula 33
 
-Proxima coisa: implementar aula 33 no projeto
-total 3h
-
-25/06 - 
-+20(
-+60(DESISTO DESSE CURSO MERDA)
-
-+50
-+50
-total 3h
+26
 
 
 

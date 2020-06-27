@@ -46,6 +46,39 @@ Existe algo sobre variáveis de ambiente, env, que não faço ideia.
 total:2h
 20m de saldo.
 
+27/06
++25(
+-Acesso a propriedade de objetos (dot e braket)
+-deletar propriedades (delete Obj.prop)
+
++25(
+-.hasOwnProperty(propname) 
+)
+
++25(
+-Quando e pq usar env variables.
+-15m da aula de hj 
+1540
++25(
+-const VariableSchema = new mongoose.Schema({})
+-mongoose.model('modelname', variableSchema)
+1620
++25(
+-Como passar model pro html/ejs: res.render('/', { author: new Author() }, caso, Author, é uma variavel que importou o model.
+-_ para o inicio de partials
+)
+
+1650
++25(
+- body parser faz com q seja mais fácil acessar os dados submetidos por formulários (req.body.name)
+-<%- include() %>
+-value em um input tipo text seta um defalt1
+
++25(
+-aula)
+
++25(
+-
 
 
 
