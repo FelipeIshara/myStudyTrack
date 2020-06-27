@@ -1,0 +1,51 @@
+24/06
++30(
+-mongodb
++55(
+-
++50
+Aula 31
+-configuração do ambiente
+Aula 32
+GRUPO DE ROTAS
+
++50(
+-configurei grupo de rotas
+-aula 33
+
+Proxima coisa: implementar aula 33 no projeto
+total 3h
+
+
+25/06 - 
++20(
++60(DESISTO DESSE CURSO MERDA)
+
++50
++50
+total 3h
+
+
+26/06
+
++50(
+<%- body %>
+Como seter o MVC,
+pasta view, public, routes.
+Como fazer as config de routes serem acessiveis pela aplicação
+Como fazer um layout
+)
+
++50(Outra configuraçãoes
+o package.json é encarregado de guardar as dependencias e isso faz com que não precisemos dar push nos nodemodules)
+Existe algo sobre variáveis de ambiente, env, que não faço ideia.
+)
+
++40
+
+total:2h
+20m de saldo.
+
+
+
+
