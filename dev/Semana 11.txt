@@ -80,5 +80,28 @@ total:2h
 +25(
 -
 
+Saldo de ontem+hoje: 40m
+
+28/06
++25+20(
+-exercicio de manipulação de obj
+-.hasOwnProperty("tracks")
+
++45(
+-video promisses
+
++45(
+-.save()
+-<%-, <%=
+
++45(
+-locals obj(pesquisar depois), usou locals.variable =! null para verificar se a variável tava setada.
+-Model.find()
+-.forEach (Pesquisar)
+Totalsemsaldo:3:20
+Total c saldo:4h.
+
+
+
 
 
