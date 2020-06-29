@@ -108,8 +108,13 @@ Total c saldo:4h.
 -.find(obj)
 -value no imput coloca um valor visivel dentro do input como defalth.
 )
-
-
+1515
++45(projeto)
++25(
+-Problema no ejs)
++30
+3h,
+30m saldo
 
 
 
