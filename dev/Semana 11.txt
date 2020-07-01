@@ -117,6 +117,18 @@ Total c saldo:4h.
 30m saldo
 
 
+30/06
++65(
+-ajuda pedro, c, strcmp(), comparar char ('').
+-toISOString(), split(), 
+- textarea, input com type=file, input com parametro min.
++45(
+projeto,
+-aprendendo multer,
+
++35(
+-
+
 
 
 
