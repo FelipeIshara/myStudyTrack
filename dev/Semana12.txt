@@ -1,0 +1,60 @@
+01/07-
+45(
+-Revendo o codigo e setando o multer. 
+-upload.single("name")
+- fiz caca no server.js
+
+25(
+-corrigindo erros, fatorando a função,
+- instalando multer
++50
+
+2h
+
+02/07-
+45(
+-readability
+
++45(
+-C , EXERCICIO JS
+
++45(
+-PROCURAR elemento no array com indexof,
+-gerar um novo array a partir de outro com .filter(function).
+-Math.random, math.florr(), gerar um random
+
+1655
++50(mongodb, show db, db.mycol.find().
+
++40(
+-RESOLVI AQUELA MERDA, tava faltando o name em um dos inputs. zzz
+import fs,
+fs.unlink(path, err)
+total:3h
+saldo 45m
+
+
+03/07
+1245
++50
+-unidade rem
+variaveis em css --
+- root pseudo element
+-position fixed.
+
++45(
+-selecionar o ultimo filho :last-child
+
++50
+-grayscale()
+-filter functions
+-
+
+1640
++25
+-letter-spacing
+-text-transform: uppercase/lowercase
++25(
+
+3h,
+saldo15m
