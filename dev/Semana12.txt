@@ -58,3 +58,39 @@ variaveis em css --
 
 3h,
 saldo15m
+
+
+04/07 1217
++40(media query, navbar)
+1326
++50(
+.vitual().get(callback) - criar propriedade virtual
+
++50(
+-.regex('propName', RegExp())
+-model.find() pode chamar outros metodos para filtrar a busca (.regex(), .gte(), .lte())
+
++40(
+-exercicios de recursão js .unshift
+- let x var.
+- "use strict"
+)
+
+
+
+
+
+05/07(
++60
+-filepond
+-script defer
+- pluggin encode
+
++30
+1800
++35
+
++ saldos: 60m !!!!!!!
+
+total 3h, saldo 5m
+
