@@ -96,5 +96,25 @@ total 3h, saldo 35m
 
 
 
+06/07
++20(
+-video)
++20(
+:name
+req.params.name
+1705
++20(
+-method override para lidar com metodos delete e put)
 
+18.35
++40(
+-metodo do mongoose, .findById()
+)
++60 1908
+`${var}`interpolação de strings
+
+07/07-
++20(
+-revisando: .findbyid, req.params.name
+-
 
