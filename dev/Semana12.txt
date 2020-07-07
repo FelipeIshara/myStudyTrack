@@ -114,7 +114,21 @@ req.params.name
 `${var}`interpolação de strings
 
 07/07-
-+20(
++60(
 -revisando: .findbyid, req.params.name
--
+-video
+-.toDateString()
+-show.ejs implementado
+
++60(
+- aO CRIAR UM LIVRO, A APLICAÇÃO NAO ESTÁ LIDANDO DIREITO COM ERRROS..
+- .remove()
+
++60
+-const,let,var
+-Object.freeze(obj)
++20(
+defalt parameter
+rest parameter (...)
+-.reduce
 
