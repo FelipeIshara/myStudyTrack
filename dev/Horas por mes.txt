@@ -1,9 +1,10 @@
 mes 1 84h, 25/28
 mes 2 84h, 24/28
+mes 3 79h, 
 total: 168h
 
 
 bs
 1) 24dias (mes 2)
 2) 18dias (mes1)
-
+3)

@@ -1,0 +1,18 @@
++100( 1420
+-Efeito gradiente(linear-gradient(to right, volor1, color 2)
+-Para cores podemos usar o hsl(hue, saturation, lightness)
+- ao manter o hue constante é possivel ter meio que um tema de cor pro site, alterando só a saturação e o brilho.
+-diferença entre os seletores * e :root
+- ao usar o box sizing com seletor universal, podemos,
+usar também nos psedoelements: * , *::before, *::after.
+-Tip: Colocar um tamanho de fonte no root, e nas outras fontes, sejam maiores ou menores, usar valores rem, para manter proporcional.
+
+
++20(1548
+-cursor: pointer; é pra aparecer a maozinha de clique
+- por defalt a font dos botões nao é a mesma do root, logo, se quiser a mesma fonte, tem que atribuir pros botões além do :root.)
+
++60 1634
+-calc()
+-.class > * {} (seleciona os elementos filho que tem class = "class".
+.class >*:first-clield {} seleciona primeiro filho
