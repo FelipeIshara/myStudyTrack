@@ -1,3 +1,4 @@
+08/07
 +100( 1420
 -Efeito gradiente(linear-gradient(to right, volor1, color 2)
 -Para cores podemos usar o hsl(hue, saturation, lightness)
@@ -16,3 +17,26 @@ usar também nos psedoelements: * , *::before, *::after.
 -calc()
 -.class > * {} (seleciona os elementos filho que tem class = "class".
 .class >*:first-clield {} seleciona primeiro filho
+
+
+09/07 - 
++40 1058
+-cssoutline
++40(11:30)
+-criar classes para as divs e aplica-las no site, no lugar de criar arquivo css pra cada page.
+
+12 28
+-+20
+
++60 1453 
+-vs dica, caso queira mudar um nome que está em varios lugares: ctrl+f. 
+
++20
+
+total :3h
+
+10/07
+
++45(
+-videos)
+
