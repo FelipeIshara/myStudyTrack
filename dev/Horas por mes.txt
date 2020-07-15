@@ -7,4 +7,4 @@ total: 168h
 bs
 1) 24dias (mes 2)
 2) 18dias (mes1)
-3)
+3) .... no fim do mes 25, mas ainda continua.

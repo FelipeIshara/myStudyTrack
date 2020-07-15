@@ -1,5 +1,5 @@
 08/07
-+100( 1420
+
 -Efeito gradiente(linear-gradient(to right, volor1, color 2)
 -Para cores podemos usar o hsl(hue, saturation, lightness)
 - ao manter o hue constante é possivel ter meio que um tema de cor pro site, alterando só a saturação e o brilho.
@@ -9,34 +9,80 @@ usar também nos psedoelements: * , *::before, *::after.
 -Tip: Colocar um tamanho de fonte no root, e nas outras fontes, sejam maiores ou menores, usar valores rem, para manter proporcional.
 
 
-+20(1548
 -cursor: pointer; é pra aparecer a maozinha de clique
 - por defalt a font dos botões nao é a mesma do root, logo, se quiser a mesma fonte, tem que atribuir pros botões além do :root.)
 
-+60 1634
 -calc()
 -.class > * {} (seleciona os elementos filho que tem class = "class".
 .class >*:first-clield {} seleciona primeiro filho
 
-
+------------------------------------------------------
 09/07 - 
-+40 1058
 -cssoutline
-+40(11:30)
 -criar classes para as divs e aplica-las no site, no lugar de criar arquivo css pra cada page.
-
-12 28
--+20
-
-+60 1453 
 -vs dica, caso queira mudar um nome que está em varios lugares: ctrl+f. 
-
-+20
-
 total :3h
+--------------------------------------------------------
 
 10/07
+app.listem(port), extensão rest,
+bcrypt
+Salt
+bcrypt.hash(password, saltRound)
+passport-local)
+tentando entender o password
+total :3:50
 
-+45(
--videos)
+---------------------------------------------------------
+11/07
+
++70
+(midleware)
+
+---------------------------------------------------------12/07
++70 (FreecodeCamp)
+Rest vs SpreadOperator
+- desestructing operator const {prop1, prop2} = obj
+-pode ser usardo para atribuir novas variáveis: 
+const {prop1: newVariable} = obj
+// newVariable = valueofprop1;
+
+19:18 140min
+(autenticação x autorização)
+(cookies, http headers(geral, request, response)
+
+
+erros: esquecer app.set('view engine', 'ejs')
+tava escrevendo com hifen.
+
+-app.use(express.urlencoded({extended:false}))
+(para acessar req.body)
+
+
+Notas para tentar desenvolver amanha:
+- para usar passport.authenticate() é preciso ter o passport configurado. (essa config pode estar em outro arquivo)
+
+nessas config estarão a estratégia customizada, o serialize e deserialize.
+
+a autentificação acontece no post do login.
+
+depois podemos fazer funções que checkam a autentificação e colocalas nas rotas como midleware
+
+-------------------------------------------------------
+
+13/07
++80min
+-template literal `${variable}`
+-sintatical sugar
+preciso fazer as sessios pra ter acesso a req.user para comparar.
+
+--------------------------------------------------------- 14/07 - 1458 +40
+
+1630
+1h05m
+
+Proximo passo, conseguir verificar se usuário ja existe na db
+
+
+
 
