@@ -76,13 +76,9 @@ depois podemos fazer funções que checkam a autentificação e colocalas nas ro
 -sintatical sugar
 preciso fazer as sessios pra ter acesso a req.user para comparar.
 
---------------------------------------------------------- 14/07 - 1458 +40
-
-1630
-1h05m
+--------------------------------------------------------- 14/07 - 
++2
 
 Proximo passo, conseguir verificar se usuário ja existe na db
 
-
-
-
+-------------------------------------------------------

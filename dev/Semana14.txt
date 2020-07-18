@@ -1,0 +1,11 @@
+15/07 + 4h
+17/07
+90m
+(logout)
+app.delete
+req.logOut() 
+(procurando sobre pomodoro)
+
++45(videos de cronometro)
+
+2110
