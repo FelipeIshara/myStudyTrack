@@ -1,11 +1,31 @@
 15/07 + 4h
+
 17/07
-90m
+155m 2h + 35m
 (logout)
 app.delete
 req.logOut() 
 (procurando sobre pomodoro)
+(videos de cronometro)
+total:2h + 35saldo
+18/07
++35m de saldo
 
-+45(videos de cronometro)
+18/07
+1727
++40(
+declarar uma variavel com uma chamada de função, chama a função.
++30
++25
 
-2110
+total2h +10(saldo)
+19/07
++180
+terminei countDown e o Pomodoro
++90m
+
+20/07
++28
+1214
+
+
